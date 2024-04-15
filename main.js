@@ -3,7 +3,7 @@ var datosSeries = dataObject.series;
 let bodyTablaTV = document.getElementById("bodyTablaTV");
 /**
  *
- * Función para mostrar la información de las series.
+ * Función Principal
  @param data
  @param body
  */
