@@ -6,10 +6,9 @@ var datosSeries = dataObject.series;
 let bodyTablaTV: HTMLElement = document.getElementById("bodyTablaTV")!;
 
 /**
- * 
- * Función Principal
- @param data 
- @param body 
+ * Función principal que se encarga de mostrar los datos de las series en la tabla
+ * @param data 
+ * @param body 
  */
 function mostrarDatos(data: Serie[], body: HTMLElement): void {
     let htmlVar = "";
